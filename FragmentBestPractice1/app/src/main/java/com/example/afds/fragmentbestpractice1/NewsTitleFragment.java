@@ -91,6 +91,7 @@ public class NewsTitleFragment extends Fragment {
                         NewsContentActivity.actionStart(getActivity(), news.getTitle(), news.getContent());
                         news.getTitle();
                         news.getTitle();
+                        
                     }
                 }
             });
